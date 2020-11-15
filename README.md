@@ -2,4 +2,4 @@
 
 # Basicsigninsystem
 
-Basic terminal account system with md5 password hashing.
+Basic terminal account system with sha256 password hashing.
