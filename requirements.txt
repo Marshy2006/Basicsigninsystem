@@ -1,0 +1,4 @@
+hashlib
+flask
+flask - wtforms
+email_valdator
